@@ -79,5 +79,6 @@ Tarayıcınızdan http://localhost/proje-klasorunuz/register.php adresine gidere
 ```
 UPDATE kullanicilar SET onay_durumu = 'Onaylandı', rol = 'Admin' WHERE kullanici_adi = 'kullanici_adiniz';
 ```
-### 👨‍💻 Geliştirici
-Bu proje, Enes TANRIVERDİ tarafından bireysel olarak geliştirilmiştir.
+### 👨‍💻 Geliştiriciler
+* ENES TANRIVERDİ
+* FATMA BERAY ERASLAN
