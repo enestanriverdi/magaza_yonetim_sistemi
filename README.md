@@ -80,5 +80,5 @@ Tarayıcınızdan http://localhost/proje-klasorunuz/register.php adresine gidere
 UPDATE kullanicilar SET onay_durumu = 'Onaylandı', rol = 'Admin' WHERE kullanici_adi = 'kullanici_adiniz';
 ```
 ### 👨‍💻 Geliştiriciler
-* ENES TANRIVERDİ
-* FATMA BERAY ERASLAN
+* Enes Tanrıverdi
+* Fatma Beray Eraslan
